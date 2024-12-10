@@ -1,0 +1,41 @@
+/*
+***LIMPAR FORMATAÇÕES***
+*/
+*{
+    margin: 0;
+padding: 0;
+}
+
+/*
+***LIMPAR FORMATAÇÕES GENÉRICAS***
+*/
+body{
+    
+ background-color: rgb(167, 236, 213);
+    }
+
+   
+
+/*
+***HEADER***
+*/
+#header{
+    background-color:rgb(16, 152, 72);
+    padding: 15px;
+    text-align: center;
+}
+#logo, #menu{
+    padding: 10px;
+}
+#header a:link, #header a:visited{
+    color:aliceblue;
+    padding: 8px 12px;
+}
+#header a:hover{
+    color:rgb(219, 59, 203);
+    background-color: aliceblue;
+    text-decoration:none;
+}
+.white{
+    color:rgb(167, 229, 192);
+}
